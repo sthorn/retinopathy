@@ -20,8 +20,8 @@ Fortunately, [Kaggle](https://www.kaggle.com) ran a competition to identify diab
 
 <table> 
   <tr> 
-    <td>![Image showing no diabetic retionpathy](README.content/nodr.jpeg) </td> 
-    <td>![Image showing proliferative diabetic retionpathy](README.content/proliferative.jpeg) </td> 
+    <td><img src="README.content/nodr.jpeg" alt="no diabetic retinopathy"></td> 
+    <td><img src="README.content/proliferative.jpeg" alt="proliiferative diabetic retinopathy"></td> 
   </tr> 
   <tr> 
     <td><center>Image showing **no** diabetic retionpathy.</center></td> 
