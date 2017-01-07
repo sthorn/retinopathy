@@ -1,10 +1,10 @@
 
-# Classification of Diabetic Retinopathy
+# Classification of Diabetic Retinopathy with Deep Features
 Exploration of whether deep features/transfer learning can be used to classify different levels of diabetic retionpathy.
 
 > **Diabetic Retinopathy** is the leading cause of blindness for people aged between 20 and 64 and is estimated to affect more than 93 million people. Detecting diabetic retinopathy requires trained clinicians to evaluate photographs of the retina. Automated approaches will hopefully speed up diagnosis and improve patient care.
 
-Note: this readme is a summary of what I did. For full details of the method, please see the Jupyter [`Model.ipynb`](Model.ipynb) in this repository.
+Note: this readme is a summary of what I did. For full details of the method, please see the Jupyter notebook [`Model.ipynb`](Model.ipynb) in this repository.
 
 ## Deep features
 
@@ -24,8 +24,8 @@ Fortunately, [Kaggle](https://www.kaggle.com) ran a competition to identify diab
     <td><img src="README.content/proliferative.jpeg" alt="proliiferative diabetic retinopathy"></td> 
   </tr> 
   <tr> 
-    <td><center>Image showing **no** diabetic retionpathy.</center></td> 
-    <td><center>Image showing **proliferative** diabetic retionpathy.</center></td> 
+    <td><center>Image showing <b>no</b> diabetic retionpathy.</center></td> 
+    <td><center>Image showing <b>proliferative</b> diabetic retionpathy.</center></td> 
   </tr> 
 </table>
 
